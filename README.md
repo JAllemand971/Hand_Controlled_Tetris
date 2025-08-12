@@ -12,9 +12,7 @@ Plays perfectly with keyboard; if a camera is available, gestures can move/rotat
   <tr>
     <td>Hand-Controlled Tetris</td>
     <td>
-
-https://github.com/user-attachments/assets/ca52cf75-0a05-4532-ac0e-3e9a27093a04
-      
+https://github.com/user-attachments/assets/ca52cf75-0a05-4532-ac0e-3e9a27093a04  
     </td>
   </tr>
 </table>
