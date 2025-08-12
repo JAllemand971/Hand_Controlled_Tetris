@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/ca52cf75-0a05-4532-ac0e-3e9a27093a04
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/Hand-Controlled-Tetris.git
+git clone https://github.com/YourUsername/Hand_Controlled_Tetris.git
 cd Hand-Controlled-Tetris
 ```
 
