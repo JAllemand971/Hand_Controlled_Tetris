@@ -105,6 +105,7 @@ https://github.com/user-attachments/assets/ca52cf75-0a05-4532-ac0e-3e9a27093a04
 ```bash
 git clone https://github.com/YourUsername/Hand-Controlled-Tetris.git
 cd Hand-Controlled-Tetris
+```
 
 2. **Create and activate a virtual environment (recommended)**
 ```bash
@@ -114,14 +115,16 @@ venv\Scripts\activate
 # macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
 3. **Install dependencies (Python 3.9+ required)**
 ```bash
 pip install -r requirements.txt
 # Or manually if requirements.txt is missing
 pip install pygame opencv-python mediapipe
-
+```
 
 4. **Run the game**
 ```bash
 python tetris.py
+```
